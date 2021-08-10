@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm [Manoj Tyagi](https://github.com/thewolfcommander) 👋
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander)](https://github.com/thewolfcommander/)
+
 
 <!--
 **thewolfcommander/thewolfcommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
