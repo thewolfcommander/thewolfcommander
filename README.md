@@ -2,15 +2,16 @@
 ### Hi there, I'm [Manoj Tyagi](https://github.com/thewolfcommander) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="200px" width="100%" >
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="220px" width="100%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" width="100%" height="220px" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="200px" width="100%" />
 </div>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" width="100%" height="300px" />
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="300px" width="100%" />
 
 
 
