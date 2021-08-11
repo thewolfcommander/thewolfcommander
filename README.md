@@ -2,7 +2,7 @@
 ### Hi there, I'm [Manoj Tyagi](https://github.com/thewolfcommander) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; align-self: center;">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="220px" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" height="220px" />
 
