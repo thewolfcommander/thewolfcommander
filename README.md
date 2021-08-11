@@ -3,9 +3,9 @@
 
 
 <div style="display: flex; align-items: center;">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="180px" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="180px" />
 </div>
 
 
