@@ -9,7 +9,7 @@
 </div>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" width="100%" height="300px" />
 
 
 
