@@ -3,8 +3,8 @@
 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="220px" width="100%" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" width="100%" height="220px" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="220px" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia" height="220px" />
 
 </div>
 
