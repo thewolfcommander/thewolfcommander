@@ -3,15 +3,39 @@
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
 <!-- OS BADGE -->
-<img src="https://img.shields.io/badge/OS-Linux-%230bacfd?style=flat&labelColor=white&logo=ubuntu&logoColor=%232cdd97&cacheSeconds=64000" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/OS-Linux-%230bacfd?style=flat&logo=ubuntu&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
 
-<img src="https://img.shields.io/badge/OS-MacOS-%230bacfd?style=flat&labelColor=white&logo=macos&logoColor=%232cdd97&cacheSeconds=64000" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/OS-MacOS-%230bacfd?style=flat&logo=macos&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
 
 <!-- Editors -->
-<img src="https://img.shields.io/badge/Editor-VS Code-%230bacfd?logo=visualstudiocode&style=flat&labelColor=white&logoColor=%232cdd97&cacheSeconds=64000" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/Editor-VS Code-%230bacfd?logo=visualstudiocode&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
 
-<img src="https://img.shields.io/badge/Editor-PyCharm-%230bacfd?logo=pycharm&style=flat&labelColor=white&logoColor=%232cdd97&cacheSeconds=64000" style="margin-right: 10px;">
+<img src="https://img.shields.io/badge/Editor-PyCharm-%230bacfd?logo=pycharm&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
+<!-- Languages  -->
+
+<img src="https://img.shields.io/badge/Code-Python-%230bacfd?logo=python&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
+<img src="https://img.shields.io/badge/Code-JavaScript-%230bacfd?logo=javascript&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
+<img src="https://img.shields.io/badge/Code-Ruby-%230bacfd?logo=ruby&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
+
+<!-- Frameworks and Libraries -->
+
+<img src="https://img.shields.io/badge/Code-Django-%230bacfd?logo=django&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/Code-Django REST Framework-%230bacfd?logo=django&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/Code-Vue JS-%230bacfd?logo=vuedotjs&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/Code-Vuetify.js-%230bacfd?logo=vuetify&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/Code-Vue JS-%230bacfd?logo=vuedotjs&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
+<!-- Shell -->
+
+<img src="https://img.shields.io/badge/Shell-Bash-%230bacfd?logo=gnubash&style=flat&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+
 </div>
+
+
 
 
 <div style="display: flex; flex-wrap: wrap;">
