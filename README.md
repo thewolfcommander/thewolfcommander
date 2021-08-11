@@ -1,8 +1,15 @@
-### Hi there, I'm [Manoj Tyagi](https://github.com/thewolfcommander) 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+### Hi there, I'm [Manoj Tyagi](https://github.com/thewolfcommander) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander)](https://github.com/thewolfcommander/)
+
+<div style="display: flex">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewolfcommander&theme=algolia" height="250em">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="250em" align="center" />
+</div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thewolfcommander&theme=algolia)](https://git.io/streak-stats)
 
 
 <!--
