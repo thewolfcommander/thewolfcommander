@@ -44,7 +44,9 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="300px" />
 
-
+<a href="https://github.com/thewolfcommander/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=thewolfcommander">
+</a>
 
 
 <!--
