@@ -44,6 +44,11 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=thewolfcommander&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=algolia" height="300px" />
 
+<br />
+<br />
+
+[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thewolfcommander&theme=algolia)](https://github.com/thewolfcommander/github-readme-activity-graph)
+
 <a href="https://github.com/thewolfcommander/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thewolfcommander">
 </a>
@@ -51,15 +56,14 @@
 
 <!--
 **thewolfcommander/thewolfcommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Neyon, an advanced AI internet research tool
+- 🌱 I’m currently learning Microservices, FastAPI, Traefik
+- 👯 I’m looking to collaborate on AI Projects, Algo Trading
+- 🤔 I’m looking for help with Freelancing Projects
+- 💬 Ask me about Python, Vue, Django, FastAPI, PostgreSQL, AWS
+- 📫 How to reach me: <a href="mailto:tyagimanojtyagi.22@gmail.com">Mail Me</a> | <a href="https://wa.link/e8b0vh">WhatsApp</a>
+- 😄 Pronouns: His/Him
+- ⚡ Fun fact: I love Travelling on Bike, want to join?
