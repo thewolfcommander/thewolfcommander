@@ -67,3 +67,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:tyagimanojtyagi.22@gmail.com">Mail Me</a> | <a href="https://wa.link/e8b0vh">WhatsApp</a>
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: I love Travelling on Bike, want to join?
+
+ Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=iammanojtyagi
