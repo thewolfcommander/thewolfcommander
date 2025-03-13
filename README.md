@@ -77,12 +77,12 @@ When I'm not coding, you'll find me exploring mountain roads on my motorcycle or
 As AI reshapes industries, I've developed expertise in connecting powerful AI systems with existing business workflows:
 
 ### Key Competencies:
-- **AI Explainability & Transparency:** Building tools to interpret AI decisions and ensure transparency in automated systems[1]
-- **Multi-API Integration:** Connecting multiple AI services (OpenAI, Gemini, Claude) with business applications[9]
-- **Workflow Automation:** Creating end-to-end solutions with Zapier, Make, and custom API pipelines[9]
-- **Prompt Engineering:** Designing effective prompts to guide AI models toward precise, actionable outputs[3][19]
-- **AI Agent Architecture:** Developing autonomous AI agents that perform complex tasks with minimal supervision[4]
-- **RAG Implementation:** Building retrieval-augmented generation systems that combine knowledge bases with LLMs[4]
+- **AI Explainability & Transparency:** Building tools to interpret AI decisions and ensure transparency in automated systems
+- **Multi-API Integration:** Connecting multiple AI services (OpenAI, Gemini, Claude) with business applications
+- **Workflow Automation:** Creating end-to-end solutions with Zapier, Make, and custom API pipelines
+- **Prompt Engineering:** Designing effective prompts to guide AI models toward precise, actionable outputs
+- **AI Agent Architecture:** Developing autonomous AI agents that perform complex tasks with minimal supervision
+- **RAG Implementation:** Building retrieval-augmented generation systems that combine knowledge bases with LLMs
 
 <details>
 <summary><b>🎓 Certifications & Specialized Training</b></summary>
@@ -95,82 +95,6 @@ As AI reshapes industries, I've developed expertise in connecting powerful AI sy
 </ul>
 </details>
 
-## 🌟 Featured AI Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI-Powered Research Assistant</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200?text=Neyon+AI" width="300px" alt="Neyon AI"/>
-          <p>Advanced research tool that combines RAG architecture with fine-tuned LLMs to synthesize information from across the web with unprecedented accuracy[1][4]</p>
-          <p><strong>Technologies:</strong> Python, FastAPI, OpenAI, Vector Databases, React</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Multi-Agent Workflow System</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200?text=AI+Agents" width="300px" alt="AI Agents"/>
-          <p>Autonomous system of specialized AI agents that collaborate to handle complex business processes with minimal human intervention[4][20]</p>
-          <p><strong>Technologies:</strong> LangChain, Django, PostgreSQL, Docker, AWS</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Enterprise AI Integration Platform</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200?text=AI+Integration" width="300px" alt="AI Integration"/>
-          <p>Secure middleware that enables enterprises to safely integrate AI capabilities with legacy systems while maintaining data privacy[1][9]</p>
-          <p><strong>Technologies:</strong> Java, Spring Boot, Kubernetes, Azure, GraphQL</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">AI-Driven Video Creation Tool</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200?text=TurboReel" width="300px" alt="TurboReel"/>
-          <p>Automated video generation system that creates professional-quality content 100x faster than traditional methods[4]</p>
-          <p><strong>Technologies:</strong> Python, FFmpeg, Vue.js, OpenAI, Cloud GPUs</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-## 🧠 Prompt Engineering Gallery
-
-<div align="center">
-  <h3>Showcasing my approach to crafting effective AI prompts</h3>
-  
-  <table>
-    <tr>
-      <th>Prompt Type</th>
-      <th>Application</th>
-      <th>Effectiveness</th>
-    </tr>
-    <tr>
-      <td>Chain-of-Thought</td>
-      <td>Complex reasoning tasks</td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>Few-Shot Learning</td>
-      <td>Classification with limited examples</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>Tree-of-Thought</td>
-      <td>Multi-step problem solving</td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>ReAct Framework</td>
-      <td>Tool-augmented reasoning</td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <h3>My AI Development Stack</h3>
   <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
@@ -182,57 +106,6 @@ As AI reshapes industries, I've developed expertise in connecting powerful AI sy
   <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge&logo=databricks&logoColor=white" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </div>
-
-
-## 📊 AI Integration Workflows
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x300?text=AI+Integration+Workflow" width="800px" alt="AI Integration Workflow"/>
-  
-  <h3>Specialized in connecting systems that leverage AI capabilities</h3>
-  <h3>AI Agent Orchestration Architecture</h3>
-</div>
-
-## 🌐 Enterprise AI Integration Case Studies
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Industry</th>
-      <th>Challenge</th>
-      <th>Solution</th>
-      <th>Impact</th>
-    </tr>
-    <tr>
-      <td>Healthcare</td>
-      <td>Medical record analysis was time-consuming and error-prone</td>
-      <td>Implemented NLP system to extract and categorize key information from patient records[18]</td>
-      <td>85% reduction in processing time with 98% accuracy</td>
-    </tr>
-    <tr>
-      <td>Finance</td>
-      <td>Risk assessment processes were slow and inconsistent</td>
-      <td>Built AI-powered risk assessment tool with explainability features[1][7]</td>
-      <td>60% faster assessments with comprehensive audit trails</td>
-    </tr>
-    <tr>
-      <td>E-commerce</td>
-      <td>Customer support was overwhelmed with repetitive queries</td>
-      <td>Developed multi-agent customer service system with seamless human handoff[4]</td>
-      <td>Handled 78% of inquiries automatically with 92% satisfaction rate</td>
-    </tr>
-    <tr>
-      <td>Manufacturing</td>
-      <td>Quality control required manual visual inspection</td>
-      <td>Created computer vision system to detect defects in real-time[18]</td>
-      <td>99.7% defect detection rate with 5x throughput improvement</td>
-    </tr>
-  </table>
-</div>
-
-
-
-  
 
 
 ## 🏆 Featured Projects
