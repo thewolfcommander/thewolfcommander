@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0BACFD&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Manoj+Tyagi;AI+Research+Engineer;Python+%7C+Django+%7C+Vue+Expert;Welcome+to+my+digital+garden!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=0BACFD&center=true&vCenter=true&width=435&lines=Hello+I'm+Manoj+Tyagi;AI+Research+Engineer;%2CPython+%7C+Django+%7C+Vue+Expert%2C;%2CWelcome+to+my+digital+garden!%2C" alt="Typing SVG" />
   
   <img src="https://raw.githubusercontent.com/thewolfcommander/thewolfcommander/main/assets/header.gif" width="100%" height="auto"/>
 </div>
